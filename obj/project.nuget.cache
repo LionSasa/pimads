@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Px/qWafcAk=",
+  "dgSpecHash": "+Zl1SAL/fo4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projetopim\\projetopim.csproj",
+  "projectFilePath": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projeto-2\\pimads\\projetopim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saaid Mohanna\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\Saaid Mohanna\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

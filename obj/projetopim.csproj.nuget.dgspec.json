@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projetopim\\projetopim.csproj": {}
+    "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projeto-2\\pimads\\projetopim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projetopim\\projetopim.csproj": {
+    "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projeto-2\\pimads\\projetopim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projetopim\\projetopim.csproj",
+        "projectUniqueName": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projeto-2\\pimads\\projetopim.csproj",
         "projectName": "projetopim",
-        "projectPath": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projetopim\\projetopim.csproj",
+        "projectPath": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projeto-2\\pimads\\projetopim.csproj",
         "packagesPath": "C:\\Users\\Saaid Mohanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projetopim\\obj\\",
+        "outputPath": "C:\\Users\\Saaid Mohanna\\OneDrive\\Área de Trabalho\\projeto-2\\pimads\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saaid Mohanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
